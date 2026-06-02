@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: SANJAY V
+### Name: Bhuvaneshwaran H
 
-### Register Number:212223230188
+### Register Number:212223240018
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
@@ -174,20 +174,20 @@ visualize_denoising(model, test_loader)
 ### OUTPUT
 
 ### Model Summary
-<img width="457" height="306" alt="image" src="https://github.com/user-attachments/assets/ea5c407d-cc62-4018-a436-25d0418a0b3d" />
+<img width="472" height="312" alt="image" src="https://github.com/user-attachments/assets/0b1d4f66-b439-4774-8518-8b4648db5ba6" />
 
 
 
 
 ### Training loss
 
-<img width="206" height="107" alt="image" src="https://github.com/user-attachments/assets/1d435b58-d432-46c5-8279-2da78a46d12f" />
+<img width="223" height="108" alt="image" src="https://github.com/user-attachments/assets/9ce91e49-5e7d-4999-9933-e62e55b6874c" />
 
 
 
 ## Original vs Noisy Vs Reconstructed Image
 
-<img width="1545" height="522" alt="image" src="https://github.com/user-attachments/assets/284b6008-6b8e-44cf-9c31-41f4610410a5" />
+<img width="1508" height="531" alt="image" src="https://github.com/user-attachments/assets/97ad4c46-c7fb-4ee8-8727-60fc66e64977" />
 
 
 
